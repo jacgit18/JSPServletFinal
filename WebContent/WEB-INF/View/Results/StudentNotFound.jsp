@@ -13,9 +13,9 @@
 	<br />
 
 	<fieldset>
-		<p style="color:red;">SSN # Not found ${badSSN }</p>
-	
-	
+		<p style="color: red;">SSN # Not found ${badSSN }</p>
+
+
 	</fieldset>
 
 </body>
